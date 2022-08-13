@@ -1,0 +1,10 @@
+requests
+pytelegrambotapi
+telebot
+mysql-connector-python
+python-telegram-bot
+pandas
+numpy
+scipy
+scikit-learn
+supabase
